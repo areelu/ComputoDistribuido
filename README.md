@@ -1,1 +1,1 @@
-# computodistribuido
+# Cómputo distribuido
