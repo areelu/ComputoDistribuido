@@ -19,13 +19,7 @@ Is there a higher mortality rate in urban or rural environments?
 
 
 # General Objectives
-To compare common variables in rural and urban areas affected by the COVID 19 pandemic.
-Common variables 
-Pre-existing conditions 
-Accessibility to health materials 
-Access to medical services.
-Travel time.
-
-Collect the necessary data from an open database, which is constantly updated.
-Analysis and data cleaning, to obtain the necessary data for the research.
-Visualize the data in a clear and concise way for all types of public. 
+- To compare common variables in rural and urban areas affected by the COVID 19 pandemic.
+- Collect the necessary data from an open database, which is constantly updated.
+- Analysis and data cleaning, to obtain the necessary data for the research.
+- Visualize the data in a clear and concise way for all types of public. 
