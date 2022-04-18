@@ -1,4 +1,4 @@
-# Deaths by COVID 19 In the municipalities with the largest population in the state of Michoacán (2020, 2021, 2022)
+# Deaths by COVID 19 In the municipalities with the largest population in the state of Michoacán 
 
 
 
