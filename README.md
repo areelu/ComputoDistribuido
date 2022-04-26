@@ -1,12 +1,14 @@
-# Deaths by COVID 19 In the municipalities with the largest population in the state of Michoacán 
-
-## Universidad Nacional Autónoma de México (UNAM)
-
 - Arely Hilda Luis Tiburcio ([areelu](https://github.com/areelu))
 
 - Débora Joselyn Tolentino Díaz([Debytd](https://github.com/Debytd))
 
 - Humberto Cortez Vázquez([tejedordealas](https://github.com/tejedordealas)) 
+
+# Deaths by COVID 19 In the municipalities with the largest population in the state of Michoacán 
+
+## Universidad Nacional Autónoma de México (UNAM)
+
+
 
 ## Introduction
 Based on the sustainable development goals of the 2030 agenda given by the UN, of which Mexico signed, according to estimates the displacement for the coming years is an increase of the population to the cities, either in Latin America, Europe, Asia. Leaving rural areas empty with the belief that the city is a better place to live. 
